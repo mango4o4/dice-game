@@ -1,0 +1,66 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #316535;
+  font-family: 'Abril Fatface';
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 2px 1.5px #232931;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #ff1717;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-family: 'Arima Madurai';
+  font-size: 1rem;
+  font-weight: 400;
+  text-shadow:1px 0 #232931;
+  color: #f8cf41;
+}
+
+p {
+  color: #ff1717;
+  font-size: 1.3rem;
+  text-shadow: 2px 1px #232931;
+}
+
+.balance {
+  color: #6e92ff;
+  font-size: 1.1rem;
+}
+
+img {
+  width: 80%;
+  background-color: #1c201f;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+
+.myBtn {
+  margin: 10px;
+  font-family: 'Arima Madurai';
+  background-color: #eae44f;
+  font-weight: 550;
+}
+
+footer {
+  margin-top: 5%;
+  color: #d8d8d8;
+  text-align: center;
+  font-family: 'Arima Madurai';
+}
